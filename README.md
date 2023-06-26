@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/LuismiBaro/LuismiBaro/blob/main/banner-gitHub.xcf" alt="">
+<img src="rawgithubusercontent.com/x2p6/x2p6/main/banner-gitHub.png" alt="Imagen descriptiva del banner.">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif"/>
@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 LuismiBaro/LuismiBaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
