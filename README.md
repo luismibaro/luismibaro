@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+# Hi!, my name is Luismi 💁💻 
 <img src="https://github.com/x2p6/x2p6/blob/main/banner-gitHub-0.png?raw=true" alt="Imagen descriptiva del banner.">
+I am interested in gaining experience as a developer by getting involved in interesting projects as well as meeting people within the industry.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif"/>
 </div>
 
-# Hi!, my name is Luismi 💁🏻 👨🏻‍💻 
 
-- Hi people!, playing and learning!
-- 
 
 <!---
 LuismiBaro/LuismiBaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
