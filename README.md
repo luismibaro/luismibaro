@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/x2p6/x2p6/blob/main/banner-gitHub.png?raw=true" alt="Imagen descriptiva del banner.">
+<img src="https://github.com/x2p6/x2p6/blob/main/banner-gitHub-0.png?raw=true" alt="Imagen descriptiva del banner.">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif"/>
