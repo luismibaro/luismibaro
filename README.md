@@ -22,7 +22,7 @@ I am a passionate web developer with a deep interest in both frontend and backen
 
 - :telescope: As a Software Developer, I contribute to the development of web applications, working on both the frontend and backend.
 - :seedling: Discovering the Art of Technical Writing.
-- :zap: In my leisure time, I tackle coding challenges and stay updated by reading tech articles..
+- :zap: In my leisure time, I tackle coding challenges and stay updated by reading tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luismibaro-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/luismibaro/))
 
 ---
