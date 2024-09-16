@@ -43,7 +43,4 @@ I am a passionate web developer with a deep interest in both frontend and backen
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 
-### 🚶: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luismibaro&theme=midnight-purple)](https://git.io/streak-stats)
