@@ -5,7 +5,7 @@
 I am a passionate web developer with a deep interest in both frontend and backend technologies. Driven by an insatiable curiosity for technology and a love for writing, my journey focuses on delving into the fascinating world of web development.
 -->
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN1Yjd3c241c3djbXN6Z3BnMXFxM3M0Z3IwZ2c4dnZ4bjN1Znp2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src=""/>
 </div>
 
 <!-- Badges for several social networks -->
